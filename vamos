@@ -1,917 +1,537 @@
-#EXTM3U
-#EXTINF:-1,Pt | Tvi
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2804.ts
-#EXTINF:-1,Pt | Tvcine 4
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2791.ts
-#EXTINF:-1,Pt | Tvcine 3
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2790.ts
-#EXTINF:-1,Pt | Tvcine 2
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2789.ts
-#EXTINF:-1,Pt | Tvcine 1
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2788.ts
-#EXTINF:-1,Pt | Cmtv
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2792.ts
-#EXTINF:-1,Pt | Sic Noticias
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2807.ts
-#EXTINF:-1,Pt | Tvi Ficcao
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2802.ts
-#EXTINF:-1,Pt | Sic Mulher
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2794.ts
-#EXTINF:-1,Pt | Rtp 2
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2798.ts
-#EXTINF:-1,Pt | Rtp 1
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2797.ts
-#EXTINF:-1,Pt | Sic
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2811.ts
-#EXTINF:-1,Pt | Rtp 3
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2812.ts
-#EXTINF:-1,Pt | Sport Tv 1 Hd
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2989.ts
-#EXTINF:-1,Pt | Sport Tv 2 Hd
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2990.ts
-#EXTINF:-1,Pt | Sport Tv 3 Hd
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2991.ts
-#EXTINF:-1,Pt | Sport Tv 4 Hd
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/2992.ts
-#EXTINF:-1,Pt | Tvi 24
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3080.ts
-#EXTINF:-1,Pt | Tv Series
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3087.ts
-#EXTINF:-1,Pt | Axn Hd
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3101.ts
-#EXTINF:-1,Pt | Sport Tv+
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3098.ts
-#EXTINF:-1,Pt | Crime + Investigation
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3099.ts
-#EXTINF:-1,Pt | Canal Panda
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/3090.ts
-#EXTINF:-1,PT: 24 Kitchen
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16258.ts
-#EXTINF:-1,PT: A Bola TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16302.ts
-#EXTINF:-1,PT: AMC
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16280.ts
-#EXTINF:-1,PT: AXN Black HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16288.ts
-#EXTINF:-1,PT: AXN White
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16287.ts
-#EXTINF:-1,PT: Baby TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16277.ts
-#EXTINF:-1,PT: Barca TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16295.ts
-#EXTINF:-1,PT: Benfica TV HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16301.ts
-#EXTINF:-1,PT: Biggs
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16272.ts
-#EXTINF:-1,PT: Caça e Pesca
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16256.ts
-#EXTINF:-1,PT: CAÇAVISION
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16257.ts
-#EXTINF:-1,PT: Canal Q
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16261.ts
-#EXTINF:-1,PT: Cartoon Network
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16274.ts
-#EXTINF:-1,PT: CBS Reality
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16260.ts
-#EXTINF:-1,PT: Cinemundo
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16290.ts
-#EXTINF:-1,PT: Discovery Channel
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16264.ts
-#EXTINF:-1,PT: Discovery Showcase
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16263.ts
-#EXTINF:-1,PT: Disney Channel
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16271.ts
-#EXTINF:-1,PT: Disney Junior
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16270.ts
-#EXTINF:-1,PT: Eleven Sports 1HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16314.ts
-#EXTINF:-1,PT: Eleven Sports 2HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16313.ts
-#EXTINF:-1,PT: Eleven Sports 3HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16312.ts
-#EXTINF:-1,PT: Eleven Sports 4HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16311.ts
-#EXTINF:-1,PT: Eleven Sports 5HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16310.ts
-#EXTINF:-1,PT: Eleven Sports 6HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16309.ts
-#EXTINF:-1,PT: Eurosport 1
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16299.ts
-#EXTINF:-1,PT: Eurosport 2
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16298.ts
-#EXTINF:-1,PT: FOX Comedy
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16286.ts
-#EXTINF:-1,PT: Fox Crime
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16282.ts
-#EXTINF:-1,PT: FOX HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16285.ts
-#EXTINF:-1,PT: FOX Life HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16284.ts
-#EXTINF:-1,PT: FOX Movies
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16283.ts
-#EXTINF:-1,PT: Fuel TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16292.ts
-#EXTINF:-1,PT: Historia
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16268.ts
-#EXTINF:-1,PT: Hollywood
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16281.ts
-#EXTINF:-1,PT: JimJam
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16273.ts
-#EXTINF:-1,PT: Kombat Sport
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16293.ts
-#EXTINF:-1,PT: Motorvision
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16294.ts
-#EXTINF:-1,PT: Nat Geo
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16266.ts
-#EXTINF:-1,PT: Nat Geo Wild
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16265.ts
-#EXTINF:-1,PT: Nickelodeon
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16275.ts
-#EXTINF:-1,PT: Odissea
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16267.ts
-#EXTINF:-1,PT: PFC
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16297.ts
-#EXTINF:-1,PT: Porto Canal
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16320.ts
-#EXTINF:-1,PT: Real Madrid TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16296.ts
-#EXTINF:-1,PT: RTP Africa
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16325.ts
-#EXTINF:-1,PT: SIC
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16326.ts
-#EXTINF:-1,PT: SIC CARAS
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16324.ts
-#EXTINF:-1,PT: SIC K
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16276.ts
-#EXTINF:-1,PT: SIC Radical
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16323.ts
-#EXTINF:-1,PT: Sport TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16303.ts
-#EXTINF:-1,PT: Sport TV 1HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16308.ts
-#EXTINF:-1,PT: Sport TV 2HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16307.ts
-#EXTINF:-1,PT: Sport TV 3HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16306.ts
-#EXTINF:-1,PT: Sport TV 4 HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16305.ts
-#EXTINF:-1,PT: Sport TV 5 HD
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16304.ts
-#EXTINF:-1,PT: Sporting TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16300.ts
-#EXTINF:-1,PT: SYFY
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16279.ts
-#EXTINF:-1,PT: TLC
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16259.ts
-#EXTINF:-1,PT: Toros TV
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16255.ts
-#EXTINF:-1,PT: TV Globo
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16318.ts
-#EXTINF:-1,PT: TV Globo Premium
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16317.ts
-#EXTINF:-1,PT: TV Record
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16316.ts
-#EXTINF:-1,PT: TVi Reality
-http://formen1.com:8080/live/23GnPWI20y/ms76kb9SxP/16322.ts
-
-#EXTINF:-1,PT: FUEL TV
-http://daddyiptv.com:8000/live/dodo/dodo/2328.m3u8
-#EXTINF:-1,PT:A BOLA TV
-http://daddyiptv.com:8000/live/dodo/dodo/2327.m3u8
-#EXTINF:-1,PT:AXN BLACK HD
-http://daddyiptv.com:8000/live/dodo/dodo/2342.m3u8
-#EXTINF:-1,PT:AXN HD
-http://daddyiptv.com:8000/live/dodo/dodo/2344.m3u8
-#EXTINF:-1,PT:AXN WHITE HD
-http://daddyiptv.com:8000/live/dodo/dodo/2343.m3u8
-#EXTINF:-1,PT:BENFICA TV HD
-http://daddyiptv.com:8000/live/dodo/dodo/2305.m3u8
-#EXTINF:-1,PT:CANAL PANDA
-http://daddyiptv.com:8000/live/dodo/dodo/2319.m3u8
-#EXTINF:-1,PT:CARTOON NETWORK
-http://daddyiptv.com:8000/live/dodo/dodo/2315.m3u8
-#EXTINF:-1,PT:CINEMUNDO
-http://daddyiptv.com:8000/live/dodo/dodo/2331.m3u8
-#EXTINF:-1,PT:DISCOVERY HD
-http://daddyiptv.com:8000/live/dodo/dodo/2312.m3u8
-#EXTINF:-1,PT:DISCOVERY SHOWCASE HD
-http://daddyiptv.com:8000/live/dodo/dodo/2309.m3u8
-#EXTINF:-1,PT:DISNEY CHANNEL HD
-http://daddyiptv.com:8000/live/dodo/dodo/2316.m3u8
-#EXTINF:-1,PT:DISNEY JUNIOR HD
-http://daddyiptv.com:8000/live/dodo/dodo/2317.m3u8
-#EXTINF:-1,PT:EUROSPORT 1
-http://daddyiptv.com:8000/live/dodo/dodo/2304.m3u8
-#EXTINF:-1,PT:EUROSPORT 2
-http://daddyiptv.com:8000/live/dodo/dodo/2303.m3u8
-#EXTINF:-1,PT:FOX COMEDY HD
-http://daddyiptv.com:8000/live/dodo/dodo/2337.m3u8
-#EXTINF:-1,PT:FOX CRIME HD
-http://daddyiptv.com:8000/live/dodo/dodo/2339.m3u8
-#EXTINF:-1,PT:FOX HD
-http://daddyiptv.com:8000/live/dodo/dodo/2341.m3u8
-#EXTINF:-1,PT:FOX LIFE HD
-http://daddyiptv.com:8000/live/dodo/dodo/2340.m3u8
-#EXTINF:-1,PT:FOX MOVIES HD
-http://daddyiptv.com:8000/live/dodo/dodo/2338.m3u8
-#EXTINF:-1,PT:HISTORIA HD
-http://daddyiptv.com:8000/live/dodo/dodo/2313.m3u8
-#EXTINF:-1,PT:HOLLYWOOD HD
-http://daddyiptv.com:8000/live/dodo/dodo/2336.m3u8
-#EXTINF:-1,PT:MOTORS TV
-http://daddyiptv.com:8000/live/dodo/dodo/2307.m3u8
-#EXTINF:-1,PT:NAT GEO WILD HD
-http://daddyiptv.com:8000/live/dodo/dodo/2311.m3u8
-#EXTINF:-1,PT:NAT GEOGRAPHIC HD
-http://daddyiptv.com:8000/live/dodo/dodo/2310.m3u8
-#EXTINF:-1,PT:NICKELODEON HD
-http://daddyiptv.com:8000/live/dodo/dodo/2318.m3u8
-#EXTINF:-1,PT:PANDA PIGGS HD
-http://daddyiptv.com:8000/live/dodo/dodo/2325.m3u8
-#EXTINF:-1,PT:PORTO CANAL
-http://daddyiptv.com:8000/live/dodo/dodo/2326.m3u8
-#EXTINF:-1,PT:RTP 1 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2360.m3u8
-#EXTINF:-1,PT:RTP 2 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2359.m3u8
-#EXTINF:-1,PT:RTP 3 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2358.m3u8
-#EXTINF:-1,PT:RTP AFRICA
-http://daddyiptv.com:8000/live/dodo/dodo/2357.m3u8
-#EXTINF:-1,PT:RTP MEMORIA
-http://daddyiptv.com:8000/live/dodo/dodo/2355.m3u8
-#EXTINF:-1,PT:SIC
-http://daddyiptv.com:8000/live/dodo/dodo/2353.m3u8
-#EXTINF:-1,PT:SIC CARAS HD
-http://daddyiptv.com:8000/live/dodo/dodo/2349.m3u8
-#EXTINF:-1,PT:SIC KIDS
-http://daddyiptv.com:8000/live/dodo/dodo/2352.m3u8
-#EXTINF:-1,PT:SIC NOTICIAS
-http://daddyiptv.com:8000/live/dodo/dodo/2350.m3u8
-#EXTINF:-1,PT:SPORT TV 1 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2302.m3u8
-#EXTINF:-1,PT:SPORT TV 2 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2301.m3u8
-#EXTINF:-1,PT:SPORT TV 3 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2300.m3u8
-#EXTINF:-1,PT:SPORT TV 4 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2299.m3u8
-#EXTINF:-1,PT:SPORT TV 5 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2298.m3u8
-#EXTINF:-1,PT:SPORTING TV HD
-http://daddyiptv.com:8000/live/dodo/dodo/2297.m3u8
-#EXTINF:-1,PT:SYFY
-http://daddyiptv.com:8000/live/dodo/dodo/2335.m3u8
-#EXTINF:-1,PT:TVCINE 1 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2323.m3u8
-#EXTINF:-1,PT:TVCINE 2 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2322.m3u8
-#EXTINF:-1,PT:TVCINE 3 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2321.m3u8
-#EXTINF:-1,PT:TVCINE 4 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2320.m3u8
-#EXTINF:-1,PT:TVI
-http://daddyiptv.com:8000/live/dodo/dodo/2348.m3u8
-#EXTINF:-1,PT:TVI 24 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2347.m3u8
-#EXTINF:-1,PT:TVI FACCAO
-http://daddyiptv.com:8000/live/dodo/dodo/2345.m3u8
-#EXTINF:-1,PT:TVI REALITY HD
-http://daddyiptv.com:8000/live/dodo/dodo/2346.m3u8
-#EXTINF:-1,PT:VH 1 HD
-http://daddyiptv.com:8000/live/dodo/dodo/2329.m3u8
-
-#EXTINF:-1,PT: 24 Kitchen FullHD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45440.m3u8
-#EXTINF:-1,PT: A BOLA TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45439.m3u8
-#EXTINF:-1,PT: AMC
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45438.m3u8
-#EXTINF:-1,PT: AXN
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45437.m3u8
-#EXTINF:-1,PT: AXN Black
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45436.m3u8
-#EXTINF:-1,PT: AXN WHITE
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45435.m3u8
-#EXTINF:-1,PT: BABY TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45434.m3u8
-#EXTINF:-1,PT: Benfica TV FullHD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45432.m3u8
-#EXTINF:-1,PT: BENFICA TV HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45433.m3u8
-#EXTINF:-1,PT: CAÇA & PESCA
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45430.m3u8
-#EXTINF:-1,PT: CANCAO NOVA HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45947.m3u8
-#EXTINF:-1,PT: CANAL HISTÓRIA
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45426.m3u8
-#EXTINF:-1,PT: CANAL Q
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45429.m3u8
-#EXTINF:-1,PT: Cartoon Network
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45427.m3u8
-#EXTINF:-1,PT: Casavision
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45428.m3u8
-#EXTINF:-1,PT: CBS Reality
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45424.m3u8
-#EXTINF:-1,PT: CINEMUNDO
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45425.m3u8
-#EXTINF:-1,PT: CM TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45431.m3u8
-#EXTINF:-1,PT: DISCOVERY CHANNEL
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45422.m3u8
-#EXTINF:-1,PT: Discovery HD Showcase
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45421.m3u8
-#EXTINF:-1,PT: DISNEY CHANNEL
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45423.m3u8
-#EXTINF:-1,PT: DISNEY JUNIOR
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45420.m3u8
-#EXTINF:-1,PT: E! Entertainment
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45417.m3u8
-#EXTINF:-1,PT: Eleven Sport 1 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45446.m3u8
-#EXTINF:-1,PT: Eleven Sport 2 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45445.m3u8
-#EXTINF:-1,PT: Eleven Sport 3 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45444.m3u8
-#EXTINF:-1,PT: Eleven Sport 4 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45443.m3u8
-#EXTINF:-1,PT: Eleven Sport 5 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45442.m3u8
-#EXTINF:-1,PT: Eleven Sport 6 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45441.m3u8
-#EXTINF:-1,PT: EUROSPORT
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45419.m3u8
-#EXTINF:-1,PT: Eurosport 2
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45418.m3u8
-#EXTINF:-1,PT: Fight Box
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45411.m3u8
-#EXTINF:-1,PT: Fight Channel / Network
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45410.m3u8
-#EXTINF:-1,PT: Food Network
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45409.m3u8
-#EXTINF:-1,PT: Fox Comedy
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45412.m3u8
-#EXTINF:-1,PT: FOX CRIME
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45414.m3u8
-#EXTINF:-1,PT: FOX LIFE
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45413.m3u8
-#EXTINF:-1,PT: FOX MOVIES
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45415.m3u8
-#EXTINF:-1,PT: FOX TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45416.m3u8
-#EXTINF:-1,PT: Fuel TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45408.m3u8
-#EXTINF:-1,PT: HOLLYWOOD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45387.m3u8
-#EXTINF:-1,PT: JimJam
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45405.m3u8
-#EXTINF:-1,PT: Kombat Sports
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45404.m3u8
-#EXTINF:-1,PT: MOTORS TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45386.m3u8
-#EXTINF:-1,PT: MOTORVISION TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45401.m3u8
-#EXTINF:-1,PT: MOV HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45406.m3u8
-#EXTINF:-1,PT: Mtv Portuga
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45403.m3u8
-#EXTINF:-1,PT: Nat Geo Wild
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45402.m3u8
-#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45400.m3u8
-#EXTINF:-1,PT: NBA HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45399.m3u8
-#EXTINF:-1,PT: NICKELODEON
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45398.m3u8
-#EXTINF:-1,PT: ODISSEIA
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45407.m3u8
-#EXTINF:-1,PT: Panda
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45390.m3u8
-#EXTINF:-1,PT: Panda Biggs
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45388.m3u8
-#EXTINF:-1,PT: PFC
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45385.m3u8
-#EXTINF:-1,PT: PORTO CANAL
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45389.m3u8
-#EXTINF:-1,PT: Real Madrid TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45394.m3u8
-#EXTINF:-1,PT: RTP 1
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45397.m3u8
-#EXTINF:-1,PT: RTP 2
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45396.m3u8
-#EXTINF:-1,PT: RTP 3
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45395.m3u8
-#EXTINF:-1,PT: RTP AÇORES
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45393.m3u8
-#EXTINF:-1,PT: RTP ÁFRICA
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45391.m3u8
-#EXTINF:-1,PT: RTP MEMÓRIA
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45392.m3u8
-#EXTINF:-1,PT: Sic
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45374.m3u8
-#EXTINF:-1,PT: SIC Caras
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45373.m3u8
-#EXTINF:-1,PT: SIC Kids
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45372.m3u8
-#EXTINF:-1,PT: SIC MULHER
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45376.m3u8
-#EXTINF:-1,PT: SIC NOTICIAS
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45375.m3u8
-#EXTINF:-1,PT: SIC RADICAL
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45377.m3u8
-#EXTINF:-1,PT: SPORT TV 1 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/11379.m3u8
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45380.m3u8
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45381.m3u8
-#EXTINF:-1,PT: SPORT TV 4
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45382.m3u8
-#EXTINF:-1,PT: SPORT TV 5
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45383.m3u8
-#EXTINF:-1,PT: SPORTING TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45384.m3u8
-#EXTINF:-1,PT: SYFY HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45378.m3u8
-#EXTINF:-1,PT: TLC
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45371.m3u8
-#EXTINF:-1,PT: TOROS TV
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45369.m3u8
-#EXTINF:-1,PT: Travel Channel
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45357.m3u8
-#EXTINF:-1,PT: TV CINE 1  HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45362.m3u8
-#EXTINF:-1,PT: TV CINE 2  HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45363.m3u8
-#EXTINF:-1,PT: TV CINE 3 HD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45364.m3u8
-#EXTINF:-1,PT: TV CINE 4
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45365.m3u8
-#EXTINF:-1,PT: TV GLOBO
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45367.m3u8
-#EXTINF:-1,PT: TV Globo Premium
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45368.m3u8
-#EXTINF:-1,PT: TV RECORD
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45366.m3u8
-#EXTINF:-1,PT: TVCseries
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45359.m3u8
-#EXTINF:-1,PT: TVI
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45361.m3u8
-#EXTINF:-1,PT: TVI 24
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45360.m3u8
-#EXTINF:-1,PT: TVI REALITY
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45370.m3u8
-#EXTINF:-1,PT: TVI Reality (A Quinta)
-http://i.ucertech.net:80/live/HDZGybR9Mx/MXcZu4kPU3/45358.m3u8
-
-#EXTINF:-1,PT:24 KITCHEN HD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1198
-#EXTINF:-1,PT:A BOLA TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1219
-#EXTINF:-1,PT:A&E
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1199
-#EXTINF:-1,PT:AFRO MUSIC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1191
-#EXTINF:-1,PT:AMC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1241
-#EXTINF:-1,PT:AMC HD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1242
-#EXTINF:-1,PT:BABY FIRST
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1181
-#EXTINF:-1,PT:BIGGS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1184
-#EXTINF:-1,PT:BTV HD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1217
-#EXTINF:-1,PT:CANAL NOS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1227
-#EXTINF:-1,PT:CANAL PANDA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1185
-#EXTINF:-1,PT:CANAL Q
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1248
-#EXTINF:-1,PT:CANCAO Nova
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1226
-#EXTINF:-1,PT:CARTOON NETWORK
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1187
-#EXTINF:-1,PT:CAZA E PESCA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1208
-#EXTINF:-1,PT:CBS REALITY
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1233
-#EXTINF:-1,PT:CINEMUNDO
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1238
-#EXTINF:-1,PT:CMTV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1180
-#EXTINF:-1,PT:DISCOVERY CHANNEL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1203
-#EXTINF:-1,PT:DISNEY CHANNEL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1189
-#EXTINF:-1,PT:DISNEY JUNIOR
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1188
-#EXTINF:-1,PT:E! ENTERTAINMENT
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1234
-#EXTINF:-1,PT:EURONEWS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1178
-#EXTINF:-1,PT:EUROSPORT 1 HD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1214
-#EXTINF:-1,PT:EUROSPORT 2
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1213
-#EXTINF:-1,PT:EUROSPORT NEWS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1212
-#EXTINF:-1,PT:FOX COMEDY
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1236
-#EXTINF:-1,PT:FOX MOVIES
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1239
-#EXTINF:-1,PT:FOX NEWS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1177
-#EXTINF:-1,PT:FTV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1229
-#EXTINF:-1,PT:FUEL TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1231
-#EXTINF:-1,PT:GLOBO PREMIUM
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1176
-#EXTINF:-1,PT:HISTORIA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1200
-#EXTINF:-1,PT:HOLLYWOOD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1240
-#EXTINF:-1,PT:JIM JAM
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1183
-#EXTINF:-1,PT:KOMBAT SPORT
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1206
-#EXTINF:-1,PT:MCM POP
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1193
-#EXTINF:-1,PT:MEZZO
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1190
-#EXTINF:-1,PT:MOTORSPORT TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1210
-#EXTINF:-1,PT:MOTORVISION
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1211
-#EXTINF:-1,PT:MTV PORTUGAL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1196
-#EXTINF:-1,PT:NAT GEO WILD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1204
-#EXTINF:-1,PT:NATIONAL GEOGRAPHIC HD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1205
-#EXTINF:-1,PT:NBA TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1209
-#EXTINF:-1,PT:NICKELODEON
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1186
-#EXTINF:-1,PT:ODISSEIA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1201
-#EXTINF:-1,PT:PFC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1216
-#EXTINF:-1,PT:PORTO CANAL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1247
-#EXTINF:-1,PT:REAL MADRID TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1215
-#EXTINF:-1,PT:RTP 1
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1257
-#EXTINF:-1,PT:RTP 2
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1256
-#EXTINF:-1,PT:RTP 3
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1255
-#EXTINF:-1,PT:RTP ACORES
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1243
-#EXTINF:-1,PT:RTP AFRICA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1245
-#EXTINF:-1,PT:RTP MADEIRA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1244
-#EXTINF:-1,PT:RTP MEMORIA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1246
-#EXTINF:-1,PT:SIC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1254
-#EXTINF:-1,PT:SIC CARAS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1232
-#EXTINF:-1,PT:SIC K
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1182
-#EXTINF:-1,PT:SIC MULHER
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1250
-#EXTINF:-1,PT:SIC NOTICIAS
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1252
-#EXTINF:-1,PT:SIC RADICAL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1249
-#EXTINF:-1,PT:SPORT TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1220
-#EXTINF:-1,PT:SPORT TV1
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1225
-#EXTINF:-1,PT:SPORT TV2
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1224
-#EXTINF:-1,PT:SPORT TV3
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1223
-#EXTINF:-1,PT:SPORT TV4
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1222
-#EXTINF:-1,PT:SPORT TV5
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1221
-#EXTINF:-1,PT:Sporting TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1218
-#EXTINF:-1,PT:SYFY
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1235
-#EXTINF:-1,PT:TLC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1202
-#EXTINF:-1,PT:TOROS TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1207
-#EXTINF:-1,PT:TRACE URBAN TV
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1192
-#EXTINF:-1,PT:TRAVEL CHANNEL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1197
-#EXTINF:-1,PT:TV GALICIA
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1175
-#EXTINF:-1,PT:TV RECORD
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1173
-#EXTINF:-1,PT:TV SERIES
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1237
-#EXTINF:-1,PT:TVE 24H
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1179
-#EXTINF:-1,PT:TVE INTERNATIONAL
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1174
-#EXTINF:-1,PT:TVI
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1253
-#EXTINF:-1,PT:TVI 24
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1251
-#EXTINF:-1,PT:TVI FICCAO
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1230
-#EXTINF:-1,PT:TVI REALITY
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1228
-#EXTINF:-1,PT:VH1
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1195
-#EXTINF:-1,PT:VH1 CLASSIC
-http://safir-free.ml:8383/freesaf526BF/3A7GmSxbOU/1194
-
-#EXTINF:-1,PT.: 24 KITCHEN
-http://51.68.181.124:8000/36261/1002/4436
-#EXTINF:-1,PT.: A BOLA TV
-http://51.68.181.124:8000/36261/1002/4435
-#EXTINF:-1,PT.: A&E HD
-http://51.68.181.124:8000/36261/1002/4434
-#EXTINF:-1,PT.: AFRO MUSIC
-http://51.68.181.124:8000/36261/1002/4433
-#EXTINF:-1,PT.: AMC
-http://51.68.181.124:8000/36261/1002/4432
-#EXTINF:-1,PT.: ANIMAL PLANET
-http://51.68.181.124:8000/36261/1002/4431
-#EXTINF:-1,PT.: ARTV
-http://51.68.181.124:8000/36261/1002/4430
-#EXTINF:-1,PT.: AXN BLACK HD
-http://51.68.181.124:8000/36261/1002/4429
-#EXTINF:-1,PT.: AXN HD
-http://51.68.181.124:8000/36261/1002/4428
-#EXTINF:-1,PT.: AXN WHITE HD
-http://51.68.181.124:8000/36261/1002/4427
-#EXTINF:-1,PT.: Baby First
-http://51.68.181.124:8000/36261/1002/4426
-#EXTINF:-1,PT.: BABY TV
-http://51.68.181.124:8000/36261/1002/4425
-#EXTINF:-1,PT.: BEIN Sports
-http://51.68.181.124:8000/36261/1002/4424
-#EXTINF:-1,PT.: BENFICA TV 1 HD
-http://51.68.181.124:8000/36261/1002/4423
-#EXTINF:-1,PT.: BENFICA TV 2 HD
-http://51.68.181.124:8000/36261/1002/4422
-#EXTINF:-1,PT.: BIGGS
-http://51.68.181.124:8000/36261/1002/4421
-#EXTINF:-1,PT.: BTV 1 HD
-http://51.68.181.124:8000/36261/1002/4420
-#EXTINF:-1,PT.: CACA & PESCA
-http://51.68.181.124:8000/36261/1002/4419
-#EXTINF:-1,PT.: CANAL  TOROS
-http://51.68.181.124:8000/36261/1002/4418
-#EXTINF:-1,PT.: Canal de Historia
-http://51.68.181.124:8000/36261/1002/4417
-#EXTINF:-1,PT.: CANAL PANDA
-http://51.68.181.124:8000/36261/1002/4416
-#EXTINF:-1,PT.: Canal Q HD
-http://51.68.181.124:8000/36261/1002/4415
-#EXTINF:-1,PT.: CAPELA DE FATIMA
-http://51.68.181.124:8000/36261/1002/4414
-#EXTINF:-1,PT.: Cartoon Network
-http://51.68.181.124:8000/36261/1002/4413
-#EXTINF:-1,PT.: CBS REALITY
-http://51.68.181.124:8000/36261/1002/4412
-#EXTINF:-1,PT.: CINE MUNDO
-http://51.68.181.124:8000/36261/1002/4411
-#EXTINF:-1,PT.: CM TV
-http://51.68.181.124:8000/36261/1002/4410
-#EXTINF:-1,PT.: Crimen & Investigation
-http://51.68.181.124:8000/36261/1002/4409
-#EXTINF:-1,PT.: DISCOVERY CHANNEL
-http://51.68.181.124:8000/36261/1002/4408
-#EXTINF:-1,PT.: DISNEY CHANNEL
-http://51.68.181.124:8000/36261/1002/4407
-#EXTINF:-1,PT.: Disney Channel HD
-http://51.68.181.124:8000/36261/1002/4406
-#EXTINF:-1,PT.: E! ENTERTAINMENT
-http://51.68.181.124:8000/36261/1002/4405
-#EXTINF:-1,PT.: Euronews
-http://51.68.181.124:8000/36261/1002/4404
-#EXTINF:-1,PT.: EUROSPORT 1 HD
-http://51.68.181.124:8000/36261/1002/4403
-#EXTINF:-1,PT.: EUROSPORT 2 HD
-http://51.68.181.124:8000/36261/1002/4402
-#EXTINF:-1,PT.: Food Network HD
-http://51.68.181.124:8000/36261/1002/4401
-#EXTINF:-1,PT.: FOX COMEDY
-http://51.68.181.124:8000/36261/1002/4400
-#EXTINF:-1,PT.: Fox Crime
-http://51.68.181.124:8000/36261/1002/4399
-#EXTINF:-1,PT.: FOX HD
-http://51.68.181.124:8000/36261/1002/4398
-#EXTINF:-1,PT.: FOX LIFE HD
-http://51.68.181.124:8000/36261/1002/4397
-#EXTINF:-1,PT.: FOX MOVIES HD
-http://51.68.181.124:8000/36261/1002/4396
-#EXTINF:-1,PT.: FOX NEWS HD
-http://51.68.181.124:8000/36261/1002/4395
-#EXTINF:-1,PT.: FUEL TV HD
-http://51.68.181.124:8000/36261/1002/4394
-#EXTINF:-1,PT.: FX
-http://51.68.181.124:8000/36261/1002/4393
-#EXTINF:-1,PT.: GLOBO HD
-http://51.68.181.124:8000/36261/1002/4392
-#EXTINF:-1,PT.: GLOBO HD (2)
-http://51.68.181.124:8000/36261/1002/4391
-#EXTINF:-1,PT.: Globo Now HD
-http://51.68.181.124:8000/36261/1002/4390
-#EXTINF:-1,PT.: Globo Premium
-http://51.68.181.124:8000/36261/1002/4389
-#EXTINF:-1,PT.: GLOBO TV
-http://51.68.181.124:8000/36261/1002/4388
-#EXTINF:-1,PT.: HOLLYWOOD
-http://51.68.181.124:8000/36261/1002/4387
-#EXTINF:-1,PT.: HOT
-http://51.68.181.124:8000/36261/1002/4386
-#EXTINF:-1,PT.: JimJam
-http://51.68.181.124:8000/36261/1002/4385
-#EXTINF:-1,PT.: LifeStyle TV
-http://51.68.181.124:8000/36261/1002/4384
-#EXTINF:-1,PT.: MCM POP
-http://51.68.181.124:8000/36261/1002/4383
-#EXTINF:-1,PT.: MCM Top
-http://51.68.181.124:8000/36261/1002/4382
-#EXTINF:-1,PT.: MCS EXTREME
-http://51.68.181.124:8000/36261/1002/4381
-#EXTINF:-1,PT.: MCS LifeStyle
-http://51.68.181.124:8000/36261/1002/4380
-#EXTINF:-1,PT.: Motors TV
-http://51.68.181.124:8000/36261/1002/4379
-#EXTINF:-1,PT.: MOTORSPORT TV
-http://51.68.181.124:8000/36261/1002/4378
-#EXTINF:-1,PT.: MOTORVISION HD (DE)
-http://51.68.181.124:8000/36261/1002/4377
-#EXTINF:-1,PT.: MOV HD
-http://51.68.181.124:8000/36261/1002/4376
-#EXTINF:-1,PT.: MTV
-http://51.68.181.124:8000/36261/1002/4375
-#EXTINF:-1,PT.: MTV Dance
-http://51.68.181.124:8000/36261/1002/4374
-#EXTINF:-1,PT.: MTV PORTUGAL
-http://51.68.181.124:8000/36261/1002/4373
-#EXTINF:-1,PT.: NAT GEO  WILD
-http://51.68.181.124:8000/36261/1002/4372
-#EXTINF:-1,PT.: NAT GEO HD
-http://51.68.181.124:8000/36261/1002/4371
-#EXTINF:-1,PT.: NAT GEO WILD
-http://51.68.181.124:8000/36261/1002/4370
-#EXTINF:-1,PT.: Nick
-http://51.68.181.124:8000/36261/1002/4369
-#EXTINF:-1,PT.: NICKELODEON
-http://51.68.181.124:8000/36261/1002/4368
-#EXTINF:-1,PT.: NRJ HITS TV
-http://51.68.181.124:8000/36261/1002/4367
-#EXTINF:-1,PT.: ODISSEA
-http://51.68.181.124:8000/36261/1002/4366
-#EXTINF:-1,PT.: PANDA BIGGS
-http://51.68.181.124:8000/36261/1002/4365
-#EXTINF:-1,PT.: PFC
-http://51.68.181.124:8000/36261/1002/4364
-#EXTINF:-1,PT.: Playboy TV
-http://51.68.181.124:8000/36261/1002/4363
-#EXTINF:-1,PT.: Plus TVI
-http://51.68.181.124:8000/36261/1002/4362
-#EXTINF:-1,PT.: PORTO CANAL
-http://51.68.181.124:8000/36261/1002/4361
-#EXTINF:-1,PT.: Q CANAL
-http://51.68.181.124:8000/36261/1002/4360
-#EXTINF:-1,PT.: RCI RADICAL
-http://51.68.181.124:8000/36261/1002/4359
-#EXTINF:-1,PT.: RECORD
-http://51.68.181.124:8000/36261/1002/4358
-#EXTINF:-1,PT.: RECORD NEWS
-http://51.68.181.124:8000/36261/1002/4357
-#EXTINF:-1,PT.: Record TV
-http://51.68.181.124:8000/36261/1002/4356
-#EXTINF:-1,PT.: REDE TV
-http://51.68.181.124:8000/36261/1002/4355
-#EXTINF:-1,PT.: RTP 1
-http://51.68.181.124:8000/36261/1002/4354
-#EXTINF:-1,PT.: RTP 2
-http://51.68.181.124:8000/36261/1002/4353
-#EXTINF:-1,PT.: RTP 3
-http://51.68.181.124:8000/36261/1002/4352
-#EXTINF:-1,PT.: RTP AFRICA
-http://51.68.181.124:8000/36261/1002/4351
-#EXTINF:-1,PT.: RTP INTERNACIONAL
-http://51.68.181.124:8000/36261/1002/4350
-#EXTINF:-1,PT.: RTP MADEIRA
-http://51.68.181.124:8000/36261/1002/4349
-#EXTINF:-1,PT.: RTP Memoria
-http://51.68.181.124:8000/36261/1002/4348
-#EXTINF:-1,PT.: SIC  MULHER
-http://51.68.181.124:8000/36261/1002/4347
-#EXTINF:-1,PT.: SIC  RADICAL
-http://51.68.181.124:8000/36261/1002/4346
-#EXTINF:-1,PT.: SIC CARAS
-http://51.68.181.124:8000/36261/1002/4345
-#EXTINF:-1,PT.: SIC FHD
-http://51.68.181.124:8000/36261/1002/4344
-#EXTINF:-1,PT.: SIC K
-http://51.68.181.124:8000/36261/1002/4343
-#EXTINF:-1,PT.: SIC Kids
-http://51.68.181.124:8000/36261/1002/4342
-#EXTINF:-1,PT.: SIC Mulher FHD
-http://51.68.181.124:8000/36261/1002/4341
-#EXTINF:-1,PT.: Sic noticias
-http://51.68.181.124:8000/36261/1002/4340
-#EXTINF:-1,PT.: SIC RADICAL
-http://51.68.181.124:8000/36261/1002/4339
-#EXTINF:-1,PT.: SPORTING TV
-http://51.68.181.124:8000/36261/1002/4331
-#EXTINF:-1,PT.: SYFY
-http://51.68.181.124:8000/36261/1002/4330
-#EXTINF:-1,PT.: TCV CABO VERDE
-http://51.68.181.124:8000/36261/1002/4329
-#EXTINF:-1,PT.: TLC HD
-http://51.68.181.124:8000/36261/1002/4328
-#EXTINF:-1,PT.: Toros TV HD
-http://51.68.181.124:8000/36261/1002/4327
-#EXTINF:-1,PT.: TPA INTERN
-http://51.68.181.124:8000/36261/1002/4326
-#EXTINF:-1,PT.: Trace
-http://51.68.181.124:8000/36261/1002/4325
-#EXTINF:-1,PT.: Trace Urban TV
-http://51.68.181.124:8000/36261/1002/4324
-#EXTINF:-1,PT.: Travel Channel HD
-http://51.68.181.124:8000/36261/1002/4323
-#EXTINF:-1,PT.: TV CANCAO NOVA
-http://51.68.181.124:8000/36261/1002/4322
-#EXTINF:-1,PT.: TV CINE  2
-http://51.68.181.124:8000/36261/1002/4321
-#EXTINF:-1,PT.: TV CINE 1 HD
-http://51.68.181.124:8000/36261/1002/4320
-#EXTINF:-1,PT.: TV CINE 2 HD
-http://51.68.181.124:8000/36261/1002/4319
-#EXTINF:-1,PT.: TV CINE 3
-http://51.68.181.124:8000/36261/1002/4318
-#EXTINF:-1,PT.: TV CINE 4 HD
-http://51.68.181.124:8000/36261/1002/4317
-#EXTINF:-1,PT.: TV Galicia
-http://51.68.181.124:8000/36261/1002/4316
-#EXTINF:-1,PT.: TV GLOBO
-http://51.68.181.124:8000/36261/1002/4315
-#EXTINF:-1,PT.: TV GLOBO PREMIUM
-http://51.68.181.124:8000/36261/1002/4314
-#EXTINF:-1,PT.: TV RECORD
-http://51.68.181.124:8000/36261/1002/4313
-#EXTINF:-1,PT.: TV Series
-http://51.68.181.124:8000/36261/1002/4312
-#EXTINF:-1,PT.: TVC 1 FHD
-http://51.68.181.124:8000/36261/1002/4311
-#EXTINF:-1,PT.: TVC 2 FHD
-http://51.68.181.124:8000/36261/1002/4310
-#EXTINF:-1,PT.: TVC 3 FHD
-http://51.68.181.124:8000/36261/1002/4309
-#EXTINF:-1,PT.: TVC 4  FHD
-http://51.68.181.124:8000/36261/1002/4308
-#EXTINF:-1,PT.: TVC Series
-http://51.68.181.124:8000/36261/1002/4307
-#EXTINF:-1,PT.: TVE 24H
-http://51.68.181.124:8000/36261/1002/4306
-#EXTINF:-1,PT.: TVE Internacional
-http://51.68.181.124:8000/36261/1002/4305
-#EXTINF:-1,PT.: TVI Camara Exclusiva
-http://51.68.181.124:8000/36261/1002/4304
-#EXTINF:-1,PT.: TVI FICCAO
-http://51.68.181.124:8000/36261/1002/4303
-#EXTINF:-1,PT.: TVI HD
-http://51.68.181.124:8000/36261/1002/4302
-#EXTINF:-1,PT.: TVI REALITY CAMARA 1
-http://51.68.181.124:8000/36261/1002/4301
-#EXTINF:-1,PT.: TVI REALITY CAMARA 4
-http://51.68.181.124:8000/36261/1002/4300
-#EXTINF:-1,PT.: TVI Reality HD
-http://51.68.181.124:8000/36261/1002/4299
-#EXTINF:-1,PT.: TVI REALITY MOSAICO
-http://51.68.181.124:8000/36261/1002/4298
-#EXTINF:-1,PT.: VH1
-http://51.68.181.124:8000/36261/1002/4297
-#EXTINF:-1,PT.: SPORT TV 1 FHD
-http://51.68.181.124:8000/36261/1002/4338
-#EXTINF:-1,PT.: SPORT TV 1 HD
-http://51.68.181.124:8000/36261/1002/4337
-#EXTINF:-1,PT.: SPORT TV 2 HD
-http://51.68.181.124:8000/36261/1002/4336
-#EXTINF:-1,PT.: SPORT TV 3 FHD
-http://51.68.181.124:8000/36261/1002/4335
-#EXTINF:-1,PT.: SPORT TV 3 HD
-http://51.68.181.124:8000/36261/1002/4334
-#EXTINF:-1,PT.: SPORT TV 4 HD
-http://51.68.181.124:8000/36261/1002/4333
-#EXTINF:-1,PT.: SPORT TV 5 HD
-http://51.68.181.124:8000/36261/1002/4332
+BSX	http://178.33.126.213:1935/bsx24/mpegts1.stream/chunklist.m3u8?wowzasessionid=1294940186
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+TVI 24	http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+SANTUÁRIO DE APARECIDA – NICHO	http://caikrondatacenter.com.br:1935/santuario_aparecida/canal2.stream/live.m3u8
+S1-E29	http://media-br-am.crackle.com/1/j/d6/a2vlf_480p.mp4
+Portugal: SportTV 4 HD	http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/638.m3u8
+Lawrence da Arabia	http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+SKY5	http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+TV Com RS	http://32747t.lp.azioncdn.net:1935/2747t/2747t/a/mp4:access_options/rtmp-live/tvcom.sdp/TV_COM_RS_UPeDown.m3u8?Grupo_UP_e_DOWN
+Godzilla (1998)	http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+TVRS	http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+PORTUGAL:ODISSEIA	http://grandiptv.myftp.org:8000/live/test45/test45/837.ts
+VENUS	http://iptv.temnet.pt:8000/live/armando/armando/53.ts
+RTP 1	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+Os Miseraveis	http://media-br-am.crackle.com/1/p/f6/55ylf_480p.mp4
+Um Salao do Barulho	http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+RTP INFORMAÇÃO	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES	http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+EURONEWS	http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_it.m3u8
+PFC 15	http://62.210.88.208:1935/liverepeat/fut01/live.m3u8
+TVRS	http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+GLOBO TV	http://167.114.32.20:8979/live/globotv/livestream.m3u8
+[COLOR blue][I][B]GLOBO RJ[/B][/I][/COLOR]	rtmp://r.livecast.cc/rl/ playpath=ch15-2 swfurl=http://livecast.cc/live/player.swf?IPTVGLOBAL live=1 pageUrl=http://livecast.cc/live/stream13.php
+venus test	http://tvdasogra.com:8880/live/trial/trial_231/512.ts
+CARTOON NETWORK	http://213.163.65.116:8081/live/cartoon/playlist.m3u8
+Sem Vestigios	http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+S1-E7	http://media-br-am.crackle.com/1/7/h6/ccwlf_480p.mp4
+Secretaria	http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+SIC Radical	http://iptv.temnet.pt:8000/live/armando/armando/14.ts
+SPORT TV AMÉRICAS	http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master700kbps.m3u8
+RTP INFORMAÇÃO	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+Motoqueiro Fantasma fi	http://media-br-am.crackle.com/1/i/56/ir1lf_480p.mp4
+Ask TV	http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+Dragon Ball Z 53	http://www.blogger.com/video-play.mp4?contentId=7d358f5665cfc35f
+TVC MG	http://flash.asaweb.com.br:1935/8080/8080/live.m3u8
+S1-E63	http://media-br-am.crackle.com/1/f/56/5t1lf_480p.mp4
+CARTOON NETWORK	http://213.163.65.116:8081/live/cartoon/playlist.m3u8
+O Paizao	http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+Portugal: VEVO 3	http://hyper.de1-eu.com:8000/live/tiago/tiago/642.m3u8
+De Repente 30	http://media-br-am.crackle.com/1/s/96/y01lf_480p.mp4
+Desejo a Tres	http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+[COLOR yellow][I][B]SIC[/B][/I][/COLOR]	http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+ANTV MG	http://caikrondatacenter.com.br:1935/tvandradas/antv.stream/live.m3u8
+Sitie fi	http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4
+Penelope	http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
+T�l� 50	http://cdnhd.oraolive.com:8081/tele50webtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMTUgNDo0Mjo0NSBQTSZoYXNoX3ZhbHVlPXVzN1MrOC82Y2pMWktLWk9YQmJleHc9PSZ2YWxpZG1pbnV0ZXM9MTIw
+RTP ÁFRICA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+TVI 24	http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+A Pantera Cor de Rosa	http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+Telecine Premiun SD	http://76.73.108.36/hls-live/livepkgr/_definst_/liveevent/tcpremium.m3u8
+[COLOR blue][I][B]BEIN SPORTS (USA) [/B][/I][/COLOR]	http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+BEIRA MAR (AVENIDA ATLÂNTICA – GUARATUBA) PR [WEBCAM]	http://streaming01.sulaovivo.com.br:1935/guaratuba_band_ondas_PR/default.stream/live.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+[I][B]SPORT TV AMÉRICAS 2500kbps [/B][/I]	http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+v8.paradisehill.tv_217.mp4	http://v8.paradisehill.tv/video/1612130835_217.mp4
+[COLOR yellow][I][B]RTP ÁFRICA[/B][/I][/COLOR]	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+Bruno	http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+TVI FICCAO	http://painel.soeu.ws:8000/live/to/to/213.ts
+ANTENNA 3	http://live.cdn.streamago.tv:1935/streamagoedge/34674/28723/livestream.m3u8
+A Janela Secreta	http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+Studio 54	http://media-br-am.crackle.com/1/3/d6/l4vlf_480p.mp4
+EI MAX [COLOR yellow]HD[/COLOR]	http://ei.ss-lisa.eiplus.com.br/live/evento3.stream_360p/chunklist.m3u8
+TVI24	http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/livestream.m3u8
+Sic K	http://tvdasogra.com:8880/live/trial/trial_231/452.ts
+Portugal: RTP 1	http://hyper.de1-eu.com:8000/live/tiago/tiago/657.m3u8
+A Hora do Rango	http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4
+S4-E7	http://media-br-am.crackle.com/1/c/r6/levlf_480p.mp4
+[COLOR blue][I][B]SILK SPORTS 1 (GEO)[/B][/I][/COLOR]	http://185.36.100.101/silk_football/index.m3u8
+[COLOR red][I][B]TV 5 MONDE/EUROPE [/B][/I][/COLOR]	http://origin2.live.web.tv.streamprovider.net/streams/3fda8a704aca20e7d1ec7df8f45602ec/index.m3u8
+SPORT TV 3 (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/256.m3u8?IGOR_RANGEL
+CANAIS DE PORTUGAL [PT]	http://wse.planeta-online.tv:1935/live/channel_3/index.m3u8
+O Rancho do Amor	http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+SPORT TV 3 (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/256.m3u8?IGOR_RANGEL
+Um Salao do Barulho	http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+[COLOR blue]Atualizada em 24/09/15[/COLOR]	https://copy.com/dsJ9hrgeefXDBmQK
+A Garota dos Meus Sonhos	http://media-br-am.crackle.com/1/v/z6/gsvlf_480p_1mbps.mp4
+BabeStation X-Treme	http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+RTP ACORES	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]	http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
+Como Se Fosse a Primeira Vez	http://media-br-am.crackle.com/1/u/56/uv1lf_480p.mp4
+Vidas Que Se Cruzam	http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+SPORT TV FULL HD (SD)	http://tvdasogra.com:8880/live/trial3/trial20153/1.m3u8?IGOR_RANGEL
+IPTVGlobal	http://bit.ly/1XFD5KM
+RTP 2	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+RAI NEWS 24	http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1917/810/live.m3u8
+RTP 1	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
+SKY	http://77.76.140.251/prgt.m3u8
+RECORD PR	http://caikrondatacenter.com.br:1935/ricpr/ric.sdp/live.m3u8
+MUNDO MAX	http://streamup.global.ssl.fastly.net:80/app/ana69s-channel/live.m3u8
+[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]	http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+PARANÁ PR [CÂMERA 6]	http://www.streambnu.info:1935/portalCidade_06/default.stream/live.m3u8
+PT : TV CINE 2	http://top-iptv.zapto.org:8000/live/Aria/Aria/520.ts
+WEB TV IRATI PR	http://srv3.zoeweb.tv:1935/z398-live/stream/livestream.m3u8
+[COLOR yellow][I][B]SIC[/B][/I][/COLOR]	http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8
+Portugal: NATIONAL GEOGRAPHIC HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/660.m3u8
+CANÇÃO NOVA	http://painel.soeu.ws:8000/live/to/to/694.ts
+IPTVGlobal	http://bit.ly/1XFD5KM
+TV CINEC PB	http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
+RTP MEMÓRIA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+O Guardiao – 2 Retorno As Minas do Rei Salomao	http://media-br-am.crackle.com/1/g/16/vaylf_480p.mp4
+TVI REALITY	http://concord.megdns.com:8000/live/ricardo-santos2/8675uygi/398.ts
+[COLOR blue][I][B]TV BRASIL[/B][/I][/COLOR]	http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+Feitico da Lua	http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+O HOMEM COM PUNHO DE FERRO 2	http://is.gd/pslOJB
+SHOPTIME SP	http://kalsegsec-a.akamaihd.net:80/dc-1/m/ny-live-publish5/kLive/1_lld8saie_all.smil/stream.m3u8
+Asian Porn 3	http://edge2.everyon.tv/etv2/pld1005/HasBahCa.m3u8
+Resident Evil – Apocalipse	http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+RISE OF THE PLANET OF THE APES	http://www.deadlyblogger.com/NewRelease/apes7.mp4
+HOT MUSIC	http://wow01.105.net/live/rmc1/playlist.m3u8
+O Ritual (2012)	http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]	http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+SKY2	http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+Flores Partidas fi	http://media-br-am.crackle.com/1/j/z6/0tvlf_480p.mp4
+Vidas Que Se Cruzam	http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+Terminator Genisys (2015) [1080p]	http://www.watch-simpsons.com/downloads/Terminator%20Genisys%20(2015)%20%5b1080p%5d/Terminator.Genisys.2015.1080p.BluRay.x264.YIFY.mp4
+[COLOR blue][I][B]SPORT TV 3 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.54:10000
+Band Sports HD	http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+TVI	http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+RTP AÇORES	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+Portugal: TV SERIES	http://hyper.de1-eu.com:8000/live/tiago/tiago/651.m3u8
+REDE VIDA	rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?
+[COLOR blue][I][B]DIEMA SPORTS 2 (BUL) [/B][/I][/COLOR]	http://lag3.tv-mobile.org/prgd.m3u8
+TVI	http://video-live.iol.pt:1935/live_tvi/_definst_/mp4:TVI3/playlist.m3u8
+PREMIERE 2	http://62.210.88.208:1935/liverepeat/fut02/live.m3u8
+[COLOR blue][I][B]SBT[/B][/I][/COLOR] [COLOR blue][I][B]HD [/B][/I][/COLOR]	http://gbbrlive2.sambatech.com.br/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/playlist.m3u8
+miami tv	rtmp://k4.usastreams.com:1935/miamitv/miamitv
+IPTVGlobal	http://bit.ly/1XFD5KM
+SIC INT	http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/inspirationlinks.m3u8
+Undercover 112 fi	http://media-br-am.crackle.com/1/j/r6/e42lf_480p.mp4
+Adoraveis Mulheres	http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+VH1 HD	http://200.76.77.237:80/LIVE/H01/CANAL703/PROFILE03.m3u8?%2f.ts
+ESPORTE INTERATIVO HD	http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b3000000.m3u8
+CARTOON NETWORK	http://213.163.71.139:8081/live/cartoon/playlist.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+[COLOR cyan][I][B]EURONEWS [/B][/I][/COLOR]	http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+SPORTV2	http://iptv.temnet.pt:8000/live/armando/armando/33.ts
+[COLOR blue][I][B]BEIN SPORT 5 (ARA) [/B][/I][/COLOR]	http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
+Portugal: Cartoon Network Portugal	http://hyper.de1-eu.com:8000/live/tiago/tiago/673.m3u8
+TV Chile	http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
+1001 NOITES	http://streaming30.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+Portugal: SportTV 2 HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/640.m3u8
+[COLOR blue][I][B]BENFICA TV 2[/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.10:10000
+Mulher Solteira Procura 2	http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+TV MACKENZIE SP	http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/tvmackenzie_bitrate1.sdp/livestream.m3u8
+S1-E20	http://media-br-am.crackle.com/1/z/l6/rfwlf_480p.mp4
+SKY4	http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+[COLOR yellow][I][B]TV CABO VERDE[/B][/I][/COLOR]	rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+A Outra	http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+PFC 15	http://62.210.88.208:1935/liverepeat/fut01/live.m3u8
+Um Salao do Barulho	http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+[COLOR green][I][B]E+I Maxx 720p[/B][/I][/COLOR]	http://ei.live-ss-cct.stormsec.com.br/live/smil:Evento3.smil/playlist.m3u8
+GLOBO SP	http://srvlon1.hostseven.org:1935/live/101010/livestream.m3u8
+BTV1	http://31.204.128.112:8081/live/sportv/playlist.m3u8
+TVI 24	http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b814000.m3u8
+rtp 1 test	http://tvdasogra.com:8880/live/trial/trial_231/511.ts
+Um Segredo Entre Nos	http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+RTP 3	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+Portugal: SportTV 1 HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/641.m3u8
+[COLOR deepskyblue][I][B]NRW (ALE)[/B][/I][/COLOR]	http://streaming006.broadcast.tneg.de:1935/nrwtv-new/_definst_/smil:nrw.smil/playlist.m3u8
+O Principal Suspeito	http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4
+SIC	http://iptv.temnet.pt:8000/live/armando/armando/7.ts
+[COLOR blue][I][B]SPORT TV 3/BENFICA TV [/B][/I][/COLOR]	rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+Esporte Interativo Nordeste	http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine480m3u8
+Portugal: SIC	http://hyper.de1-eu.com:8000/live/tiago/tiago/655.m3u8
+SBT	http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
+Portugal: RTP 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/656.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+tlc1	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/209.m3u8
+ESPORTE INTERATIVO HD	http://ei.live-ss-cct.stormsec.com.br:80/live/Evento1.smil/chunklist_b3000000.m3u8
+IGREJA ONLINE TV HD	http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+SPORT TV 1	http://31.204.128.127:8081/live/portugal1/playlist.m3u8
+RTP AÇORES	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+Portugal: RTP 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/656.m3u8
+PR-E40	http://video17.mais.uol.com.br/15085337.mp4?ver=0&start=0&r=http%3A%2F%2Fplayer.mais.uol.com.br%2Fplayer_video_v2.swf%3FmediaId%3D15085337%26p%3Dmais%26tv%3D2
+Caes de Guerra	http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+[COLOR magenta][I][B]DISCOVERY KIDS [/B][/I][/COLOR]	http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?=%2F.ts
+RAI YOYO	http://stream10.rai.it:80/italy/raiyoyo.smil/chunklist_b1500000.m3u8
+AGRO BRASIL MS	http://184.173.146.35:1935/agrobrasil/encoder/live.m3u8
+TLC 4	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/212.m3u8
+Superbad – E Hoje	http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+Spiderman Anime 07 fi	http://media-br-am.crackle.com/1/h/p6/4kwlf_480p.mp4
+TVC JAÚ SP	http://streaming49.sitehosting.com.br:1935/tvcjau/tvcjau/live.m3u8
+FOX (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/229.m3u8?IGOR_RANGEL
+IPTVGlobal	http://bit.ly/1XFD5KM
+SPORTV1	http://iptv.temnet.pt:8000/live/armando/armando/32.ts
+Portugal: BENFICA TV 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/676.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+SONI	http://200.76.77.237/LIVE/H01/CANAL203/PROFILE02.m3u8?=%2F.ts
+ARENASPORT 3 [COLOR yellow] HD[/COLOR]	http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_360K_416x234_baseline.m3u8
+Sete Vidas	http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+[COLOR red][I][B]ROUGE TV [/B][/I][/COLOR]	http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+Portugal: FOX HD	http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/666.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+Dragon Ball Super E01	http://www.blogger.com/video-play.mp4?contentId=db54a77cee2b7515
+DISNEY XD	http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?IGOR_RANGEL
+Babestation2	http://publish.thewebstream.co:1935/cellcast/encoder72/playlist.m3u8
+S2-E1	http://media-br-am.crackle.com/1/-/l6/3v0lf_480p.mp4
+RTP 3	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+AGRO CANAL MS	http://live.sba1.com:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+Um Segredo Entre Nos	http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+A Janela Secreta	http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+Portugal: CM TV	http://hyper.de1-eu.com:8000/live/tiago/tiago/671.m3u8
+TV CINEC PB	http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8
+Nefertisex 2	http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp/hot100-tablet.3gp-mr647k.m3u8
+[COLOR blue][I][B]SPORT TV AMÉRICAS [/B][/I][/COLOR]	http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+O Balconista	http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+CANALE DIECI	http://176.31.226.78:1935/ch10live/stream1.sdp/livestream.m3u8
+DISNEY CHANAL	http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?IGOR_RANGEL
+RAI MOVIE	http://stream10.rai.it:80/italy/raimovie.smil/chunklist_b1500000.m3u8
+RTP MADEIRA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
+Nefertisex 3	http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+CANALE 7	http://fms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+Telekanal Futbol	http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+SUPER TV	http://wms.shared.streamshow.it:1935/supertv/supertv_mobile/live.m3u8
+Mergulho Radical 2: Os Recifes	http://media-br-am.crackle.com/1/r/v6/mkvlf_480p.mp4
+TVI REALITY	http://srvlon1.hostseven.org:1935/live/TVIReality24/livestream.m3u8
+Lendas da Paixao	http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+Sete Vidas	http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+HOT MUSIC	http://wow01.105.net/live/rmc1/playlist.m3u8
+SPORT TV 3	http://31.204.128.127:8081/live/portugal3/playlist.m3u8
+Sport 1 HD Portugal [COLOR orange][B](com algumas paragens)[/B][/COLOR]	http://91.204.214.106:23201/stolen/246g/xenixos.7z
+Economico TV	http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+RTP 2	http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+O Otario	http://media-br-am.crackle.com/1/g/n6/p4ulf_480p.mp4
+[COLOR blue][I][B]SPORT TV 2 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.111:10000
+Telecine FUN HD	http://video-edge-2ca0d4.sfo01.hls.ttvnw.net/hls111/tvrafildshd_15656436688_282794398/chunked/py-index-live.m3u8?token=id=3839329745287614021,bid=15656436688,exp=1438892923,node=video-edge-2ca0d4-1.sfo01.hls.justin.tv,nname=video-edge-2ca0d4.sfo01,fmt=chunked&sig=2dd25f361fa1a17e9c28857dd550852531105098
+O Grande Anjo Negro	http://media-br-am.crackle.com/1/q/v6/invlf_480p.mp4
+AGRO BRASIL MS	http://184.173.146.35:1935/agrobrasil/encoder/live.m3u8
+comedia	http://seriados.com.br
+DISCOVERY ANIMAL PLANET	http://200.76.77.237:80/LIVE/H01/CANAL373/PROFILE03.m3u8?%2f.ts
+TV MANÁ-1	http://195.22.19.179:1935/manasat/manasat2/live.m3u8
+REDE Sa?CULO 21	http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8?
+S1-E13	http://media-br-am.crackle.com/1/n/r6/tcvlf_480p.mp4
+RTP INTERNACIONAL	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
+Portugal: BENFICA TV 1	http://hyper.de1-eu.com:8000/live/tiago/tiago/677.m3u8
+S1-E8	http://media-br-am.crackle.com/1/i/j6/m0ulf_480p.mp4
+El Tiempo	http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+A Janela Secreta	http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+SKY4	http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+BALNEÁRIO CAMBORIÚ (PRAÇA CENTRAL) BA [WEBCAM]	http://www.streambnu.info:1935/balneario1/default.stream/live.m3u8
+REDE VIDA	rtmp://rtmp.cdn.upx.net.br:80/74cc/myStream.sdp?
+Sem Vestigios	http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+Penelope	http://media-br-am.crackle.com/1/x/n6/ry2lf_480p.mp4
+TV Aparecida	rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream?
+Snatch Porcos e Diamantes fi	http://media-br-am.crackle.com/1/l/j6/2wulf_480p.mp4
+Portugal: ODISSEIA	http://hyper.de1-eu.com:8000/live/tiago/tiago/659.m3u8
+seriados
+Adeus	http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+O Balconista	http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+[COLOR blue][I][B]SPORT TV 4 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.16:10000
+Portugal: VEVO 1	http://hyper.de1-eu.com:8000/live/tiago/tiago/644.m3u8
+S1-E19	http://media-br-am.crackle.com/1/z/l6/sfwlf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+A Rosa Purpura do Cairo	http://media-br-am.crackle.com/1/_/x6/26wlf_480p.mp4
+[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.23:10000
+Oliver!	http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+Portugal: VEVO 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/643.m3u8
+RTP INFORMAÇÃO	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+S1-E9	http://media-br-am.crackle.com/1/i/j6/l0ulf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+Resident Evil – Apocalipse	http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+RTP ÁFRICA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
+TVI REALITY	http://concord.megdns.com:8000/live/ricardo-santos2/8675uygi/398.ts
+TVI	http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/chunklist_b814000.m3u8
+Portugal: TVCINE 4	http://hyper.de1-eu.com:8000/live/tiago/tiago/647.m3u8
+Portugal: DISNEY Channel	http://hyper.de1-eu.com:8000/live/tiago/tiago/669.m3u8
+[COLOR cyan][I][B]TV3 24[/B][/I][/COLOR]	http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/chunklist_b798000_DVR.m3u8
+FOX (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/229.m3u8?IGOR_RANGEL
+Portugal: CINEMUNDO	http://hyper.de1-eu.com:8000/live/tiago/tiago/672.m3u8
+Portugal: DISNEY JUNIOR (test)	http://hyper.de1-eu.com:8000/live/tiago/tiago/668.m3u8
+SPORT TV 1	http://213.163.71.139:8081/live/portugal1/playlist.m3u8
+O Sequestro do Metro 123	http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+Caes de Guerra	http://media-br-am.crackle.com/1/p/v6/fkvlf_480p.mp4
+S1-E32	http://media-br-am.crackle.com/1/b/l6/0fwlf_480p.mp4
+[COLOR blue][I][B]TERRA VIVA[/B][/I][/COLOR]	http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/IPTVGLOBAL.m3u8
+Lawrence da Arabia	http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+A Informante	http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4
+S TV AMERICAS	http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+Portugal: FOX HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/666.m3u8
+Portugal: RTP 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/656.m3u8
+CINEMAX	http://200.76.77.237:80/LIVE/H01/CANAL481/PROFILE03.m3u8?%2f.ts
+[COLOR green][I][B]E+ Interativo 720p[/B][/I][/COLOR]	http://ei.live-ss-cct.stormsec.com.br/live/smil:Evento1.smil/playlist.m3u8
+TELEDUCATO	http://wms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+Animal Planet	http://46.61.226.18/hls/CH_C03_ANIMALPLANETHD/bw3000000/variant.m3u8?version=2
+IPTVGlobal	http://bit.ly/1XFD5KM
+[COLOR yellow][I][B]TVI[/B][/I][/COLOR]	http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
+O Balconista	http://media-br-am.crackle.com/1/v/h6/17vlf_480p.mp4
+21:00 Red Bull Brasil x Flamengo – Copa SP de Juniores	http://213.163.71.139:8081/live/sportv/playlist.m3u8
+[I][B]GINX[/B][/I]	http://204.107.26.252:1935/live/796.high.stream/playlist.m3u8
+SPORT TV 3	http://31.204.128.127:8081/live/portugal2/playlist.m3u8
+Portugal: TVCINE 1	http://hyper.de1-eu.com:8000/live/tiago/tiago/650.m3u8
+CANAIS DO BRASIL [BR]	http://wse.planeta-online.tv:1935/live/channel_3/livestream.m3u8
+RADIO VIRGIN TV	http://wow01.105.net:1935/live/virgin1/livestream.m3u8
+Sem Destino fi	http://media-br-am.crackle.com/1/n/z6/jrvlf_480p.mp4
+RTP INFORMAÇÃO	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8
+Sete Vidas	http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+CANAL 26 HD	http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+THE WOLVERINE	http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+O Inquilino	http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4
+Asian Porn 2	http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+TLC 2	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/210.m3u8
+AGRO CANAL MS	http://srvvenus.canaldoboi.com.br:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+Portugal: SportTV 4 HD	http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/638.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+RTP Internacional	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/chunklist.m3u8
+8mm – Oito Milimetros 2	http://media-br-am.crackle.com/1/9/v6/n2zlf_480p.mp4
+[COLOR blue][I][B] TYC SPORTS (ARG)[/B][/I][/COLOR]	http://live.vodgc.com:1935/kLive/0_a5h483eu_all.smil/stream.m3u8
+[COLOR blue][I][B]BENFICA TV 2[/B][/I][/COLOR]	http://91.204.214.106:23201/stolen/233w/xenixos.7z
+SPORT TV 1	http://213.163.65.116:8081/live/portugal1/playlist.m3u8
+fil	http://www.filmes2k.info/01/A%20Pele%20Que%20Habito_moovd.mp4
+Portugal: SportTV 5 HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/637.m3u8
+[COLOR blue][I][B]BAND[/B][/I][/COLOR]	http://213.163.71.139:8081/live/band/playlist.m3u8
+Jasmin TV HD	http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Dragon Ball Z 53	http://www.blogger.com/video-play.mp4?contentId=7d358f5665cfc35f
+Skyline – A Invasao	http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
+WEB TV SA SP	http://173.236.10.10:1935/webtvsa/webtvsa/live.m3u8
+CANÇÃO NOVA SP	http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-b.m3u8
+Rede TV	http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8?ChannelsON
+Asian Porn 1	http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+21:00 Red Bull Brasil x Flamengo – Copa SP de Juniores	http://213.163.71.139:8081/live/sportv/playlist.m3u8
+CIELO	http://skyianywhere2-i.akamaihd.net:80/hls/live/216865/cielo/stream1/streamPlaylist.m3u8
+Portugal: SportTV 4 HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/638.m3u8
+Cançao Nova HD	http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8?
+O Contrato	http://media-br-am.crackle.com/1/x/n6/oy2lf_480p.mp4
+RTP 2	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
+S5-E44	http://media-br-am.crackle.com/1/k/96/121lf_480p.mp4
+Desejo a Tres	http://media-br-am.crackle.com/1/e/56/0t1lf_480p.mp4
+Sete Vidas	http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+TVI 24	http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w1284637725_b814000.m3u8
+A Guerra de Hart	http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+Godzilla (1998)	http://media-br-am.crackle.com/1/4/f6/v7ylf_480p.mp4
+CANAL 26 HD	http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+Amar	http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+Portugal: DISNEY Channel	http://hyper.de1-eu.com:8000/live/assunta/assunta/669.m3u8
+agueda TV	http://agueda.tv:1756/stream.flv
+Portugal: AXN BLACK	http://hyper.de1-eu.com:8000/live/tiago/tiago/679.m3u8
+[COLOR yellow][I][B]TVI 24[/B][/I][/COLOR]	http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+TYC SPORTS HD	http://q.gs/9830047/todokodi4
+[COLOR blue][I][B]SPORT TV 1 [/B][/I][/COLOR]	rtmp://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+Portugal: AXN WHITE	http://hyper.de1-eu.com:8000/live/tiago/tiago/678.m3u8
+fil	http://www.filmes2k.info/01/A%20Pele%20Que%20Habito_moovd.mp4
+[COLOR blue][I][B]BENFICA TV [/B][/I][/COLOR]	http://91.204.214.106:23201/stolen/250l/xenixos.7z
+O Paizao	http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+Identidade	http://media-br-am.crackle.com/1/8/v6/l2zlf_480p.mp4
+TELEDUCATO	http://wms.shared.streamshow.it:1935/teleducatopr/teleducatopr/live.m3u8
+Superbad – E Hoje	http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+TVI	http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+BLUMENAU SC [CÂMERA 7]	http://www.streambnu.info:1935/blumenau7/default.stream/live.m3u8
+Oliver!	http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+Garotas Selvagens 4	http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+RTP MEMÓRIA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
+EURONEWS	http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_es.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+SKY1	http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+[COLOR blue][I][B]DOLCESPORT 1 (ROM) [/B][/I][/COLOR]	http://digi-hdsport.hopto.org:1935/live3/_definst_/mp4:dolcesport/playlist.m3u8
+Menina Ma.com	http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+Sete Anos no Tibet fi	http://media-br-am.crackle.com/1/q/96/q01lf_480p.mp4
+RTP MADEIRA	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+Portugal: CANAL PANDA	http://hyper.de1-eu.com:8000/live/assunta/assunta/674.m3u8
+cmtv test	http://tvdasogra.com:8880/live/adrianob/FLrx8MRC5D/514.ts
+[COLOR yellow][I][B]TVI[/B][/I][/COLOR]	http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+Asian Porn 2	http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+Hot test	http://tvdasogra.com:8880/live/trial/trial_231/507.ts
+Alfa TV	rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+A Outra	http://media-br-am.crackle.com/1/x/56/7v1lf_480p.mp4
+Um Salao do Barulho	http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+EU A PATROA E AS CRIAN�AS HD	http://62.210.88.244:8081/patroa/patroa/chunklist_w1250548825.m3u8
+SBT HD	http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+Sepultado Vivo fi	http://media-br-am.crackle.com/1/t/96/101lf_480p.mp4
+PREMIERE 8	http://62.210.88.208:1935/liverepeat/fut1123402/live.m3u8
+Menina Ma.com	http://media-br-am.crackle.com/1/y/n6/ty2lf_480p.mp4
+TLC 2	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/210.m3u8
+Um Peixe Chamado Wanda fi	http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+Cultura	http://200.189.113.201/hls/tve.m3u8
+Secretaria	http://media-br-am.crackle.com/1/-/x6/16wlf_480p.mp4
+IPTVGlobal	http://bit.ly/1XFD5KM
+Bruno	http://media-br-am.crackle.com/1/v/96/731lf_480p.mp4
+[I][B]South Park – Uncensored (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]	http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
+24 HORAS	http://iphonelive.rtve.es:80/24H_LV3_IPH/bitrate_1.m3u8
+TVI REALTY	http://painel.soeu.ws:8000/live/to/to/689.ts
+[COLOR yellow][I][B]SIC[/B][/I][/COLOR]	http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+RAI 2	http://originstream5.rai.it:80/italy/rai2.smil/chunklist_b1800000.m3u8
+[I][B]CNOPT [COLOR orange](alguns jogos da liga)[/COLOR][/B][/I]	http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+Portugal: TVCINE 3	http://hyper.de1-eu.com:8000/live/tiago/tiago/648.m3u8
+SPORTV5	http://iptv.temnet.pt:8000/live/armando/armando/36.ts
+IPTVGlobal	http://bit.ly/1XFD5KM
+SPORT TV AMÉRICAS HD	http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master2500kbps.m3u8
+[COLOR green][I][B]E+I Maxx2 360p[/B][/I][/COLOR]	http://ei.ss-lisa.eiplus.com.br/live/evento2.stream_360p/playlist.m3u8
+TV MANÁ-1	http://195.22.19.179:1935/manasat/manasat3/live.m3u8
+SIC	http://213.13.26.11:1935/live/sic/hasbahca.m3u8
+TV MACKENZIE SP	http://ec2-50-19-196-117.compute-1.amazonaws.com:1935/live/tvmackenzie_bitrate2.sdp/livestream.m3u8
+RTP 2	http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
+Portugal: PORTO CANAL (test)	http://hyper.de1-eu.com:8000/live/tiago/tiago/658.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+Spiderman Anime 07 fi	http://media-br-am.crackle.com/1/h/p6/4kwlf_480p.mp4
+SPORT TV AMÉRICAS SD	http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master.m3u8
+[COLOR blue][I][B]SPORT TV 3 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.54:10000
+[COLOR blue][I][B]BAND RS[/B][/I][/COLOR]	http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/live.m3u8
+[COLOR blue][I][B]SPORT 1 (RUS)[/B][/I][/COLOR]	http://origin3.tomsk.ertelecom.ru/content/private/s147213/d3720264/r183827sd2500000/5fac5fcb98198ce1d18fb6b120c2e53c57e208f2/playlist.m3u8
+Discovery channel	http://3.hls.bolshoe.tv/1/streaming/discovery/tvrec/playlist.m3u8
+RTP MADEIRA	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+TLC 3	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/211.m3u8
+ADINET TV SP	http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+TV MANÁ-1	http://195.22.19.179:1935/manasat/manasat1/live.m3u8
+SPORT TV (BRA)	http://srvlon1.hostseven.org:1935/live/201020/livestream.m3u8
+[COLOR blue][I][B]SKY SPORTS 3 (UK)[/B][/I][/COLOR]	#EXTINF:-1 tvg-logo=”Sky Sports 4.png” group-title=“DESPORTO”,[COLOR blue][I][B]SKY SPORTS 4 (UK)[/B][/I][/COLOR]
+[COLOR yellow][I][B]SIC[/B][/I][/COLOR]	http://noscdn1.connectedviews.com:1935/live/sic.stream/chunklist_w1329392400.m3u8
+[COLOR blue][I][B]SPORT TV 4 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.16:10000
+A Janela Secreta	http://media-br-am.crackle.com/1/u/56/rv1lf_480p.mp4
+TVI	http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+TVI 24	http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+TPA	http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+[COLOR yellow][I][B]EURONEWS[/B][/I][/COLOR]	http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8
+A Pantera Cor de Rosa	http://media-br-am.crackle.com/1/9/16/8p1lf_480p.mp4
+Telecine Premiun SD	http://76.73.108.36/hls-live/livepkgr/_definst_/liveevent/tcpremium.m3u8
+miami tv	rtmp://k4.usastreams.com:1935/miamitv/miamitv
+TV LITORAL SUL SC	http://app.w7virtual.com:1935/canal20/canal20_250/live.m3u8
+TVI 24	http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8
+SBT HD	http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/live.m3u8
+[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]	http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+CANAL 26 HD	http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+Paraiso	http://media-br-am.crackle.com/1/v/h6/27vlf_480p.mp4
+SPORT TV AMÉRICAS SD	http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master300kbps.m3u8
+SIC KIDS	http://iptv.temnet.pt:8000/live/armando/armando/21.ts
+SPORT TV 3 (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/256.m3u8?IGOR_RANGEL
+Portugal: SIC NOTICIAS	http://hyper.de1-eu.com:8000/live/tiago/tiago/653.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+TVI REALITY	http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+[COLOR blue][I][B]SPORT TV 2 (BRA)[/B][/I][/COLOR]	http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+DISNEY JUNIOR (SD)	http://clikmega.is-very-nice.org:8000/live/clikmega@gmail.com/CLIKMEGA/10.m3u8?IGOR_RANGEL
+IPTVGlobal	http://bit.ly/1XFD5KM
+Ironias do Amor	http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+Flower (RU)	http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+Dragon Ball Z 53	http://www.blogger.com/video-play.mp4?contentId=7d358f5665cfc35f
+BRESCIA LIVE TV	http://wms.shared.streamshow.it:1935/brescialivetv/brescialivetv/live.m3u8
+A Ultima Missao	http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4
+Portugal: RTP 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/656.m3u8
+TVCINE 4 (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/265.m3u8?IGOR_RANGEL
+REDE TV SP	http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+TVRS	http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+TV CINE 1	http://top-iptv.zapto.org:8000/live/walid/walid/519.ts
+[COLOR green][I][B]Fox Sports 2[/B][/I][/COLOR]	http://server1.livestreaming.ninja:1935/live/foxsports2/livestream.m3u8
+Amar	http://media-br-am.crackle.com/1/q/v6/kkvlf_480p.mp4
+CAPELINHA FATIMA	rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario&file=http://rd3.videos.sapo.pt/nk4p1I65eivPLPe4i1hy/mov/24 live=1 pageUrl=objectEncoding
+Garotas Selvagens 4	http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+RTP 1	http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+EURONEWS	http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/27-live.m3u8
+TV SERIES	http://62.210.248.96:11000/live/toze071@hotmail.com_pt/toze071@hotmail.com_pt/2920.m3u8
+TVI REALITY	http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+SKY3	http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
+O Guardiao	http://media-br-am.crackle.com/1/s/am/pddyb_480p.mp4
+RAI PREMIUM	http://originstream7.rai.it:80/italy/raipremium.smil/chunklist_b1800000.m3u8
+Portugal: SportTV 3 HD	http://hyper.de1-eu.com:8000/live/tiago/tiago/639.m3u8
+[COLOR cyan][I][B]LA SEXTA [/B][/I][/COLOR]	http://api.iptv.ink/pl.m3u8?ch=88365689
+O Melhor Amigo da Noiva	http://media-br-am.crackle.com/1/t/96/001lf_480p.mp4
+Portugal: A BOLA TV	http://hyper.de1-eu.com:8000/live/tiago/tiago/680.m3u8
+[COLOR blue][I][B]DIGI SPORT 1 (ROM)[/B][/I][/COLOR]	http://vurl.com/J6ggJ
+HIPER FM	http://85.25.73.243:10460/
+S1-E10	http://media-br-am.crackle.com/1/6/56/8w1lf_480p.mp4
+Portugal: TVCINE 2	http://hyper.de1-eu.com:8000/live/tiago/tiago/649.m3u8
+TV NOVO TEMPO	http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
+[COLOR blue][I][B]SPORT TV 5 [/B][/I][/COLOR]	http://185.26.175.200:5000/udp/239.200.1.30:10000
+ANTV MG	http://69.46.0.170:1935/tvandradas/antv.stream/live.m3u8
+Lendas da Paixao	http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4
+TV LISBOA	http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+Portugal: TVI FICCAO	http://hyper.de1-eu.com:8000/live/tiago/tiago/645.m3u8
+O Guardiao 3 – A Maldicao do Calice de Judas	http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
+[COLOR blue][I][B]BEIN SPORT 5 (ARA) [/B][/I][/COLOR]	http://live01.pushpublish.tv/mylive/bein5/playlist.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+IPTVGlobal	http://bit.ly/1XFD5KM
+WEB TV MINAS	http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
+[COLOR blue][I][B]TV BRASIL[/B][/I][/COLOR]	http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+Superbad – E Hoje	http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+TVRS	http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+Portugal: SIC	http://hyper.de1-eu.com:8000/live/assunta/assunta/655.m3u8
+PANDA	http://iptv.temnet.pt:8000/live/armando/armando/15.ts
+PLAYBOY	http://iptv.temnet.pt:8000/live/armando/armando/46.ts
+SPV2	http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+Benfica Tv	http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+VERA TV	http://fms.shared.streamshow.it:1935/veratv/veratv/live.m3u8
+Adeus	http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+21:00 Red Bull Brasil x Flamengo – Copa SP de Juniores	http://213.163.71.139:8081/live/sportv/playlist.m3u8
+Portugal: SportTV 1 HD	http://hyper.de1-eu.com:8000/live/akhlaghi/akhlaghi/641.m3u8
+PT: RTP1 HQ	http://portal3.digiportal.xyz:80/live?channelId=197&uid=515&deviceUser=cliente001&devicePass=pass001
+AXN (ES)	http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+[I][B]Simpsons (24/7) [/B][/I] [COLOR orange][B](ingles)[/B][/COLOR]	http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
+[I][B]NASA TV[/B][/I]	http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+Sexo	http://media-br-am.crackle.com/1/y/r6/3gvlf_480p.mp4
+SYFY	http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
+[COLOR red][I][B]ROUGE TV [/B][/I][/COLOR]	http://rtmp.infomaniak.ch/livecast/rougetv/hasbahca.m3u8
+Lenda Urbana 3 – A Vinganca de Mary	http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+TV GAZETA	http://shflash.directradios.com:1935/gazeta3/stream/live.m3u8
+Segundas Intencoes 2 fi	http://media-br-am.crackle.com/1/q/n6/u8ulf_480p.mp4
+GLOBO São Paulo	http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8
+SPORT TV 3 (HD)	http://tvdasogra.com:8880/live/trial3/trial20153/256.m3u8?IGOR_RANGEL
+Portugal: SPORTING TV	http://hyper.de1-eu.com:8000/live/tiago/tiago/652.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+Juno	http://media-br-am.crackle.com/1/a/56/lq1lf_480p.mp4
+rtp 1 test	http://tvdasogra.com:8880/live/adrianob/FLrx8MRC5D/511.ts
+VERBO TV PB	http://srv3.zoeweb.tv:1935/z449-live/stream/livestream.m3u8
+PT: TV Canção Nova	http://portal3.digiportal.xyz:80/live?channelId=194&uid=515&deviceUser=cliente001&devicePass=pass001
+FOX SPORTS 2	http://200.76.77.237:80/LIVE/H01/CANAL527/PROFILE03.m3u8?%2f.ts
+[COLOR blue][I][B]RECORD HD[/B][/I][/COLOR]	http://174.37.99.198:1935/dvrid1816/1816/playlist.m3u8?DVR
+TV MACEIÓ AL	http://srv3.zoeweb.tv:1935/z46-live/stream/livestream.m3u8
+HORSE BRASIL CHANNEL	http://570230807.e.849169298.r.idglobalcdn.net:80/849169298/horsebrasil/live.m3u8
+2 Coelhos	http://media-br-am.crackle.com/1/f/v6/bjvlf_480p_1mbps.mp4
+[COLOR magenta][I][B]DISCOVERY KIDS [/B][/I][/COLOR]	http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?=%2F.ts
+PT: RTP1	http://portal2.digiportal.xyz:80/live?channelId=83&uid=515&deviceUser=cliente001&devicePass=pass001
+Sem Vestigios	http://media-br-am.crackle.com/1/y/56/bw1lf_480p.mp4
+PREMIERE 2	http://62.210.88.208:1935/liverepeat/fut02/live.m3u8
+IPTVGlobal	http://bit.ly/1XFD5KM
+SPORTTV 2	rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr pageUrl=http://sharecast.to/
+FOX CINÉMA	http://200.76.77.237:80/LIVE/H01/CANAL421/PROFILE03.m3u8?%2f.ts
+Um Peixe Chamado Wanda fi	http://media-br-am.crackle.com/1/i/f6/c2ylf_480p.mp4
+TVI	http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+[COLOR blue][I][B]NTV SPORT (RUS)[/B][/I][/COLOR]	http://tv3.noip.me/stream/RA9KFWMDAH/143.m3u8
+UNE TV ARMENIA	http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+Portugal: CANAL PANDA	http://hyper.de1-eu.com:8000/live/tiago/tiago/674.m3u8
